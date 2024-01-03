@@ -1,2 +1,2 @@
 # fin_advice
-Just a fake website for testing
+Just a mock website for testing compliance tasks
